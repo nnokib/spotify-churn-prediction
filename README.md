@@ -1,4 +1,4 @@
-[spotify_user_churn_analysis.md](https://github.com/user-attachments/files/34998222/spotify_user_churn_analysis.md)
+
 # Spotify User Churn Analysis and Prediction
 
 **1. Objective**
